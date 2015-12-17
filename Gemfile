@@ -37,6 +37,8 @@ group :development, :test do
   gem 'byebug'
   gem 'capybara'
   gem 'launchy'
+  gem 'awesome_print'
+  gem 'better_errors'
 end
 
 group :development do
